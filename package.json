@@ -1,0 +1,27 @@
+{
+  "name": "b-web-200-bdx-2-1-epytodo-nathan.lemale",
+  "version": "1.0.0",
+  "description": "epytodo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechIT2020/B-WEB-200-BDX-2-1-epytodo-nathan.lemale.git"
+  },
+  "author": "denis.roux@epitech.eu, nathan.lemale@epitech.eu, baptiste.mounier-vanderhaegen-gillot@epitech.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechIT2020/B-WEB-200-BDX-2-1-epytodo-nathan.lemale/issues"
+  },
+  "homepage": "https://github.com/EpitechIT2020/B-WEB-200-BDX-2-1-epytodo-nathan.lemale#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5"
+  }
+}
